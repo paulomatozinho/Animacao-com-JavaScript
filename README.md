@@ -1,35 +1,23 @@
-# MyTunes Landing Page
-Criação de Website inspirado no itunes.
+# Awards Animation
+Criação de Website com animações.
 
 ## Sobre o Projeto
-Esse projeto tem finalidades acadêmicas e didáticas, trata-se da criação de uma landing page responsiva, seu modelo de criação tem como inspiração o site  iTunes, 
+Esse projeto tem finalidades acadêmicas e didáticas, trata-se da criação de uma landing page responsiva com animações em Css e JavaScript 
 
 ## Processo de Criação
 
-- HTML5 Semântico
-- CSS com variáveis
-- JavaScript
-- jQuery
-- Flexbox
-- CSS Grid
-- Media Query
-  
+- Mobile first responsive design
+- Utilização de grid para criar layouts
+- Utilização de  flexbox para alinhar elementos
+- Animações com CSS e JavaScript 
+- CSS grid template areas, keyframes
 
 ## Imagens do Projeto
 ---
  **Overview**
-![foto de Overview](./img/Overview.png)
-
-**Music Section**
-![Seção de música](./img/Music%20section.png)
-
-**Video Section**
-![Seção de vídeo](./img/Video%20Section.png)
-
-**Gift Card**
-![Gift Card](./img/Gift%20Card.png)
+![foto de Overview](./img/imagem%20projeto.png)
 
 ---
 
 ## Referências
- - [Traversy Media](https://www.youtube.com/watch?v=4sosXZsdy-s&t=194s)
+ - [Julio Codes](https://www.youtube.com/c/JulioCodes)
